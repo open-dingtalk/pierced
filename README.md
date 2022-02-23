@@ -104,6 +104,7 @@
 2. 你启动命令的 subdomain 参数有可能被别人占用，尽量不要用常用字符，可以用自己公司名的拼音，例如：alibaba、dingding 等。
 
 3. 可以在本地起个 http-server 服务，放置一个 index.html 文件，然后访问 http://abcde.vaiwan.com/index.html 测试一下。
+4. linux 后端运行脚本 nohup ./ding -config=./ding.cfg -log=stdout -log-level=ERROR -subdomain=fffffx 8988 &
 
 ## 官方文档
 
