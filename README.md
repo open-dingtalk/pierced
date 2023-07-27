@@ -3,7 +3,8 @@
 因安全合规要求，该工具已经下线，推荐采用最新推出的 Stream 模式 5分钟快速接入：
 
 “钉钉开放平台Stream模式共创群”群的钉钉群号： 35365014813
-https://qr.dingtalk.com/action/joingroup?code=v1,k1,NrXMLmpJdhjHp1OEGUdSy4zSfaGjzAjiC9VWxMHECmg=&_dt_no_comment=1&origin=11? 金喜(主用钉)邀请你加入钉钉群聊钉钉开放平台Stream模式共创群，点击进入查看详情
+
+https://qr.dingtalk.com/action/joingroup?code=v1,k1,NrXMLmpJdhjHp1OEGUdSy4zSfaGjzAjiC9VWxMHECmg=&_dt_no_comment=1&origin=11? 邀请你加入钉钉群聊钉钉开放平台Stream模式共创群，点击进入查看详情
 
 ![stream](https://github.com/open-dingtalk/pierced/assets/22822/50d15d55-a06b-4ed5-b818-214b133f51e4)
 
