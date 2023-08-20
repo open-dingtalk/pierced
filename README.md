@@ -2,12 +2,7 @@
 
 因安全合规要求，该工具已经下线，推荐采用最新推出的 Stream 模式 5分钟快速接入：
 
-“钉钉开放平台Stream模式共创群”群的钉钉群号： 28170036326
-
-https://qr.dingtalk.com/action/joingroup?code=v1,k1,+IQMtd5qoUZbnXKcGJpS21HxvLAp01fRDmeQAMi+xaM=&_dt_no_comment=1&origin=11
-
-![image](https://github.com/open-dingtalk/pierced/assets/22822/83794b09-bdde-45b6-ba88-0064a98fe0f1)
-
+[点击链接，加入Stream模式共创群交流](https://open-dingtalk.github.io/developerpedia/docs/explore/support/?via=moon-group)
 
 本仓库及以下说明来自钉钉官方开发文档。
 
